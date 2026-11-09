@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 # Awesome Mizar and MizAR
 
 Discover readable formal mathematics, the Mizar Mathematical Library and automated assistance.
